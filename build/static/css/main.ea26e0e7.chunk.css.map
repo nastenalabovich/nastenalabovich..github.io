@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/home.css"],"names":[],"mappings":"AAAA,aACI,cACJ,CAEA,wBACI,aACI,cACJ,CACJ","file":"main.ea26e0e7.chunk.css","sourcesContent":[".big-heading {\n    font-size: 7rem;\n}\n\n@media(max-width: 610px) {\n    .big-heading {\n        font-size: 4rem;\n    }\n}"]}
