@@ -1,0 +1,28 @@
+
+{
+    "navbar": {
+        "poets": "Poets",
+        "desc": "Site Description",
+        "daily": "Poet of the Day",
+        "devs": "Developers"
+    },
+
+    "landing": {
+        "label": "Listening is everything",
+        "title": "Best Belarusian poets",
+        "button": "Poets list",
+        "poetLink": "Poet page",
+        "poetOfTheDay": "Poet of the day",
+        "siteDescTitle": "Best site in the world",
+        "siteDescText": "On this site you can find the most interesting and useful information about Belarusian poets. No ads, no databases, no servers - just your computer. This site was written by two developers with zero experience in React in exactly 24 hours. "
+    },
+    
+    "poets": {
+        "search": "Search",
+        "main": "Preview",
+        "bio": "Biography",
+        "photos": "Gallery",
+        "video": "Video",
+        "map": "Location"
+    }
+}

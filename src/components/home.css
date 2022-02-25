@@ -1,0 +1,9 @@
+.big-heading {
+    font-size: 7rem;
+}
+
+@media(max-width: 610px) {
+    .big-heading {
+        font-size: 4rem;
+    }
+}

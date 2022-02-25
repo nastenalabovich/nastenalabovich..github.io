@@ -1,0 +1,48 @@
+{
+  "name": "rpi-lab3",
+  "version": "0.1.0",
+  "homepage": "/rpi-lab3",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "i18next": "^20.2.2",
+    "i18next-http-backend": "^1.2.2",
+    "react": "16.14.0",
+    "react-bootstrap": "^1.5.2",
+    "react-bootstrap-icons": "^1.4.0",
+    "react-dom": "16.14.0",
+    "react-i18next": "^11.8.15",
+    "react-router-dom": "^5.2.0",
+    "react-router-hash-link": "^2.4.1",
+    "react-scripts": "4.0.3",
+    "react-uuid": "^1.0.2",
+    "vertical-timeline-component-for-react": "^1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "topages": "npm run build && rm -rf ./docs && cp -r ./build/. ./docs"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint-plugin-react-hooks": "^4.2.0"
+  }
+}

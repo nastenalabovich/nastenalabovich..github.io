@@ -1,0 +1,96 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "name": {
+                "ru": "Альгерд Абуховіч",
+                "en": "Algerd Abuhovich"
+            },
+            "dob": "06.06.1840",
+            "dod": "22.06.1898",
+            "description": {
+                "ru": "Беларускі паэт, перакладчык",
+                "en": "Belarusian poet and interpreter"
+            },
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/%D0%9E%D0%B1%D1%83%D1%85%D0%BE%D0%B2%D0%B8%D1%87_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4.jpg"
+        },
+        {
+            "id": 1,
+            "name": {
+                "ru": "Уладзімір Іванавіч Агіевіч",
+                "en": "Vladimir Ivanavich Agievich"
+            },
+            "dob": "21.12.2000",
+            "dod": "21.12.2150",
+            "description": {
+                "ru": "Беларускі савецкі літаратурны крытык і літаратуразнаўца, паэт, перакладчык",
+                "en": "Belarusian soviet literary critic and writer, poet, interpreter"
+            },
+            "photoUrl": "http://zhitlib.by/gallery/gen-4c9b21da7d98521bb71542bee5fd7391_450x604.02684563758.jpg"
+        },
+        {
+            "id": 2,
+            "name": {
+                "ru": "Янка Купала",
+                "en": "Yanka Kupala"
+            },
+            "dob": "21.12.1900",
+            "dod": "14.11.1930",
+            "description": {
+                "ru": "Белорусский советский поэт и переводчик, драматург, публицист.",
+                "en": "Belarusian Soviet poet and translator, playwright, publicist."
+            },
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Yanka_Kupala.jpg"
+        },
+        {
+            "id": 3,
+            "name": {
+                "ru": "Якуб Колас",
+                "en": "Yakub Kolas"
+            },
+            "dob": "21.12.1882",
+            "dod": "14.11.1956",
+            "description": {
+                "ru": "Белорусский советский писатель, драматург, поэт и переводчик, общественный деятель",
+                "en": "Belarusian Soviet writer, playwright, poet and translator, public figure"
+            },
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Yakub_Kolas_in_office.jpg/548px-Yakub_Kolas_in_office.jpg"
+        },
+        {
+            "id": 4,
+            "longDescription": {
+                "ru": "Рыго́р (Григо́рий) Ива́нович Бороду́лин (белор. Рыгор Іванавіч Барадулін; 24 февраля 1935, хутор Вересовка (ныне СЗ окраина дер. Тихоняты Сорочинского сельсовета), Ушачский район, Витебская область, — 2 марта 2014, Минск) — советский и белорусский поэт, эссеист, редактор, переводчик. Народный поэт Беларуси (1992).",
+                "en": "Ryhor (Grigory) Ivanovich Borodulin (Belarusian Ryhor Ivanavich Baradulin; February 24, 1935, Veresovka farm (now the north-western outskirts of Tikhonyaty village, Sorochinskiy village council), Ushachsky district, Vitebsk region, - March 2, 2014, Minsk poet , editor, translator. People's poet of Belarus (1992)."
+            },
+            "name": {
+                "ru": "Бородулин Рыгор Иванович",
+                "en": "Borodulin Rygor Ivanovich"
+            },
+            "dob": "21.12.1935",
+            "dod": "14.11.1956",
+            "description": {
+                "ru": "Cоветский и белорусский поэт, эссеист, редактор, переводчик.",
+                "en": "Soviet and Belarusian poet, essayist, editor, translator."
+            },
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ryhor_Baradulin.jpg"
+        },
+        {
+            "id": 5,
+            "longDescription": {
+                "ru": "Винце́нт Ду́нин-Марцинке́вич (Ви́кентий Ива́нович Ду́нин-Марцинке́вич; белор. Вінцэнт Дунін-Марцінкевіч, польск. Wincenty Dunin-Marcinkiewicz; 4 февраля 1808, фольварк Понюшковичи, Бобруйский уезд, Минская губерния — 21 декабря (по другим данным 29 декабря) 1884, д. Люцинка[1], Минский уезд, Минская губерния) — белорусский[2] писатель и драматург, классик белорусской литературы[3]. Долгое время ошибочно считался племянником митрополита римско-католической церкви Российской империи Станислава Богуш-Сестренцевича. На самом деле не был с ним в кровном родстве.",
+                "en": "Vincent Dunin-Marcinkiewicz (Vikentiy Ivanovich Dunin-Marcinkiewicz; Belarusian Vincent Dunin-Marcinkiewicz; Polish Wincenty Dunin-Marcinkiewicz; February 4, 1808, Ponyushkovichi farm, December 21, Bobruisk province, Min. Lyutsinka [1], Minsk district, Minsk province) - Belarusian [2] writer and playwright, classic of Belarusian literature [3]. For a long time he was mistakenly considered the nephew of the Metropolitan of the Roman Catholic Church of the Russian Empire Stanislav Bogush-Sestrentsevich. In fact, he was not in blood relationship with him."
+            },
+            "name": {
+                "ru": "Марцинкевич Викентий",
+                "en": "Martsinkevich Vikenty"
+            },
+            "dob": "21.12.1808",
+            "dod": "14.11.1840",
+            "description": {
+                "ru": "Белорусский писатель и драматург, классик белорусской литературы",
+                "en": "Belarusian writer and playwright, classic of Belarusian literature"
+            },
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Vinsent_Dunin-Martsinkevich.jpg"
+        }
+    ]
+}
